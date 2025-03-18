@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c45d7813-9c7b-409d-82eb-48dc9fa382fa}">
+		<property name="assetPath">
+			<value>OnePageFlip02.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f3391b06-bab1-4d48-a382-c2503ea38f4b}</destination>
+		</relationship>
+	</object>
+</objects>

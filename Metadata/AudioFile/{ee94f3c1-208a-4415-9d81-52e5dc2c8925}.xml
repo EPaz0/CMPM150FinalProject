@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{ee94f3c1-208a-4415-9d81-52e5dc2c8925}">
+		<property name="assetPath">
+			<value>131658__bertrof__game-sound-selection.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.0781405895691609</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f3391b06-bab1-4d48-a382-c2503ea38f4b}</destination>
+		</relationship>
+	</object>
+</objects>

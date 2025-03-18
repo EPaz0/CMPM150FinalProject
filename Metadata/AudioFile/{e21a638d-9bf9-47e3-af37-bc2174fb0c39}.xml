@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{e21a638d-9bf9-47e3-af37-bc2174fb0c39}">
+		<property name="assetPath">
+			<value>466375__carlerichudon10__page-flipping.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.717687074829932</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f3391b06-bab1-4d48-a382-c2503ea38f4b}</destination>
+		</relationship>
+	</object>
+</objects>

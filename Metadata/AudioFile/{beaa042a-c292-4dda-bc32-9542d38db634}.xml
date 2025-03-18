@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{beaa042a-c292-4dda-bc32-9542d38db634}">
+		<property name="assetPath">
+			<value>777053__kentspublicdomain__flickering-fluorescent-light-with-background-hum-seamless-loop-44100-hz-mono.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>8.9950793650793646</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f3391b06-bab1-4d48-a382-c2503ea38f4b}</destination>
+		</relationship>
+	</object>
+</objects>

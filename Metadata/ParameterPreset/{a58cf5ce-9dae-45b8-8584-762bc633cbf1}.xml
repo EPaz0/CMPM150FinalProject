@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{a58cf5ce-9dae-45b8-8584-762bc633cbf1}">
+		<property name="name">
+			<value>StormIntensity</value>
+		</property>
+		<relationship name="folder">
+			<destination>{7ccc8535-8304-4be4-9a9e-7e754da25fec}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{5d01e003-45e3-4eb6-b625-204f377ac7cf}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{5d01e003-45e3-4eb6-b625-204f377ac7cf}">
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
